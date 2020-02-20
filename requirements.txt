@@ -1,0 +1,3 @@
+secp256k1
+bech32
+typing-extensions
